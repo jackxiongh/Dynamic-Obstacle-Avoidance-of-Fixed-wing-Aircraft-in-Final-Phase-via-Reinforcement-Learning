@@ -14,7 +14,7 @@
 
 The codes provide a Reinforcement Learning (RL)-based obstacle avoidance strategy for aircraft. The RL-based obstacle avoidance strategy is based on the SAC RL algorithm and includes a pre-training stage and a fine-tuning stage.
 The codes also include a baseline 3DVO-based obstacle avoidance strategy.
-The codes require an X-plane 11 simulator, Pytorch (1.10.0), Python (3.8), Numpy (1.18.5), Gym (0.10.5) and Pandas (1.3.5)
+The codes require X-plane 11 flight simulator, Pytorch (1.10.0), Python (3.8), Numpy (1.18.5), Gym (0.10.5), and Pandas (1.3.5).
 
 ## Files
 
