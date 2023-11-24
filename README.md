@@ -20,23 +20,23 @@ The codes require an X-plane simulator (version), Pytorch (version), and ...
 ### Files
 
 ## SAC RL algorithm
-# `SAC.py` - Establish an RL-based navigator according to the SAC RL algorithm
-# `ReplayBuffer.py` - Establish a replay buffer
+- `SAC.py` - Establish an RL-based navigator according to the SAC RL algorithm
+- `ReplayBuffer.py` - Establish a replay buffer
 
 ## pre-training stage
-# `main_pretrain.py` - The main file of pre-training
-# `main_pretrain_test.py` - Test a pre-trained RL-based navigator
-# `Env_pre.py` - Environment for pre-training and testing a pre-trained RL-based navigator
+- `main_pretrain.py` - The main file of pre-training
+- `main_pretrain_test.py` - Test a pre-trained RL-based navigator
+- `Env_pre.py` - Environment for pre-training and testing a pre-trained RL-based navigator
 
 ## fine-tuning stage
-# `main.py` - The main file of fine-tuning
-# `env.py` - Environment for fine-tuning
-# `main_test` - Test a fine-turned RL-based navigator
-# `Env_test.py` - Environment for testing a fine-turned RL-based navigator
+- `main.py` - The main file of fine-tuning
+- `env.py` - Environment for fine-tuning
+- `main_test` - Test a fine-turned RL-based navigator
+- `Env_test.py` - Environment for testing a fine-turned RL-based navigator
 
 ## 3DVO-based obstacle avoidance strategy
-# `main_test_vo` - Test the 3DVO-based obstacle avoidance strategy
-# `Env_test_vo.py` - Environment for testing the 3DVO-based obstacle avoidance strategy
+- `main_test_vo` - Test the 3DVO-based obstacle avoidance strategy
+- `Env_test_vo.py` - Environment for testing the 3DVO-based obstacle avoidance strategy
 
 
 
