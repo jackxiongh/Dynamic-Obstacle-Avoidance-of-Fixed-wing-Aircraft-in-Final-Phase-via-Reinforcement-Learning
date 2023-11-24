@@ -10,9 +10,6 @@
 `gym 0.10.5`
 `pandas 1.3.5`
 
-
-
-
 ## Introduction
 
 The codes provide a Reinforcement Learning (RL)-based obstacle avoidance strategy for aircraft. The RL-based obstacle avoidance strategy is based on the SAC RL algorithm and includes a pre-training stage and a fine-tuning stage.
